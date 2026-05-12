@@ -74,7 +74,5 @@ This frontend is designed to work seamlessly with the [AI Resume Builder Backend
 
 ## 👨‍💻 Developed By
 
-**Yashwant Rangrej**
-- [GitHub](https://github.com/Yashwant-Rangrej)
-- [LinkedIn](https://www.linkedin.com/in/yashwant-rangrej-0856993a8/)
+**SAMEER NADAF**
 
