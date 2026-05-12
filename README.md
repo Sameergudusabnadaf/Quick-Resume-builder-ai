@@ -1,4 +1,6 @@
- # Local AI Resume Generator
+# Local AI Resume Generator
+
+![App Preview](app_preview.png)
 
 A powerful, entirely local toolkit designed to help you quickly generate clean, professional FAANG-style resumes without relying on external AI APIs.
 
@@ -64,6 +66,8 @@ python resume_generator.py
 
 **Step 5:** Once finished, your resume will be generated instantly! You can find the finished file saved in the same folder as a text document (e.g., `yourname_resume.txt`).
 
+![CLI Screenshot](cli_screenshot.png)
+
 ---
 
 ### Method 2: Running the Interactive Web Application
@@ -93,6 +97,8 @@ http://localhost:8000
 **Step 6:** You will now see the sleek Web UI! Fill in the form fields with your personal and professional details.
 **Step 7:** Click **"Generate Resume"** at the bottom to see an instant preview of your resume.
 **Step 8:** Click **"Download .doc (Word)"** to save your beautifully formatted resume directly to your computer as a Microsoft Word document!
+
+![Web UI Screenshot](web_ui_screenshot.png)
 
 ---
 
